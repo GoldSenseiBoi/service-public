@@ -26,10 +26,17 @@ header img {
     height: 73px;
 }
 
+.show_route {
+    display: flex;
+    list-style-type: none;
+    
+}
+
 /* Barre de recherche */
 #recherche_conteneur {
     display: flex;
     align-items: center;
+    
 }
 
 #rechercheInput {
@@ -40,7 +47,7 @@ header img {
 }
 
 #ok_recherche {
-    background-color: #003399;
+    background-color: gray;
     color: white;
     padding: 5px 10px;
     border: none;
@@ -71,6 +78,8 @@ nav ul li a {
 nav ul li:hover ul {
     display: block;
 }
+
+
 
 nav ul ul {
     display: none;
@@ -115,7 +124,7 @@ aside h3 {
 
 /* Footer */
 footer {
-    background-color: #003399;
+    background-color: #008bd3;
     color: white;
     padding: 20px;
 }
@@ -127,6 +136,9 @@ footer ul {
     justify-content: space-between;
 }
 
+.first-child {
+    background-color: #008bd3;
+}
 footer ul li {
     flex: 1;
 }
