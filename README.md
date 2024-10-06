@@ -36,10 +36,5 @@ Le projet contient les fichiers suivants :
 1. Cloner le dépôt ou télécharger le projet.
 2. Ouvrir le fichier `index.html` dans un navigateur pour visualiser la page.
 3. Pour déployer sur Heroku ou Alwaysdata, suivez les instructions de déploiement spécifiques à ces plateformes.
-"""
 
-# Write the README file to the project directory
-readme_file_path = os.path.join(project_dir, 'README.md')
-with open(readme_file_path, 'w') as readme_file:
-    readme_file.write(readme_content)
 
