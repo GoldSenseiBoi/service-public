@@ -36,5 +36,6 @@ Le projet contient les fichiers suivants :
 1. Cloner le dépôt ou télécharger le projet.
 2. Ouvrir le fichier `index.html` dans un navigateur pour visualiser la page.
 3. Pour déployer sur Heroku ou Alwaysdata, suivez les instructions de déploiement spécifiques à ces plateformes.
+4. ou dispo en ligne : https://goldsenseiboi.github.io/service-public/
 
 
